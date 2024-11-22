@@ -1,0 +1,16 @@
+{
+  "name": "s-lmm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+"scripts": {
+  "update": "s-update --remoteRepository='https://github.com/SebastianWesolowski/s-template/tree/main/templates/startetNpmPackage/node'",
+  "build": "s-build --remoteRepository='https://github.com/SebastianWesolowski/s-template/tree/main/templates/startetNpmPackage/node'",
+  "init": "s-init --remoteRepository='https://github.com/SebastianWesolowski/s-template/tree/main/templates/startetNpmPackage/node'"
+},
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "s-update-manager": "^1.0.0-dev.46"
+  }
+}
