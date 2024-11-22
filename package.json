@@ -1,7 +1,7 @@
 {
-  "name": "placeholder-repo-name",
+  "name": "s-llm",
   "version": "0.0.0-development",
-  "description": "A template for creating npm packages using TypeScript",
+  "description": "s-llm is utils for working with LLM models",
   "main": "./lib/index.js",
   "files": [
     "lib/**/*",
@@ -42,13 +42,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/PLACEHOLDER_GITHUB_USER/PLACEHOLDER_REPO_NAME.git"
+    "url": "https://github.com/SebastianWesolowski/s-llm.git"
   },
   "license": "MIT",
   "author": {
-    "name": "PLACEHOLDER_FULL_NAME",
-    "email": "PLACEHOLDER_GITHUB_USER@users.noreply.github.com",
-    "url": "https://github.com/PLACEHOLDER_GITHUB_USER"
+    "name": "Sebastian Wesolowski",
+    "email": "SebastianWesolowski@users.noreply.github.com",
+    "url": "https://github.com/SebastianWesolowski"
   },
   "engines": {
     "node": ">=20.11.0"
@@ -65,9 +65,9 @@
     "codecov"
   ],
   "bugs": {
-    "url": "https://github.com/PLACEHOLDER_GITHUB_USER/PLACEHOLDER_REPO_NAME/issues"
+    "url": "https://github.com/SebastianWesolowski/s-llm/issues"
   },
-  "homepage": "https://github.com/PLACEHOLDER_GITHUB_USER/PLACEHOLDER_REPO_NAME#readme",
+  "homepage": "https://github.com/SebastianWesolowski/s-llm#readme",
   "devDependencies": {
     "@commitlint/cli": "^19.5.0",
     "@commitlint/config-conventional": "^19.5.0",
