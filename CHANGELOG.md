@@ -1,3 +1,10 @@
+## [1.1.0](https://github.com/SebastianWesolowski/s-utils-llm/compare/v1.0.0...v1.1.0) (November 22, 2024)
+
+
+### Other tasks
+
+- ✨ [] changepackagename ([75b58ff](https://github.com/SebastianWesolowski/s-utils-llm/commit/75b58ffb729faf7185c17c241f198d08e4b46572))
+
 ## 1.0.0 (November 22, 2024)
 
 
