@@ -2,16 +2,8 @@
   "templateCatalogName": "templateCatalog",
   "sumCatalog": "./.sum/",
   "sUpdaterVersion": "^1.0.0-dev.46",
-  "availableSUMSuffix": [
-    "-default.md",
-    "-custom.md",
-    "-extend.md"
-  ],
-  "availableSUMKeySuffix": [
-    "defaultFile",
-    "customFile",
-    "extendFile"
-  ],
+  "availableSUMSuffix": ["-default.md", "-custom.md", "-extend.md"],
+  "availableSUMKeySuffix": ["defaultFile", "customFile", "extendFile"],
   "sumFileMapConfigFileName": "repositoryMap.json",
   "sumFileMapConfig": "./.sum/repositoryMap.json",
   "projectCatalog": "./",
