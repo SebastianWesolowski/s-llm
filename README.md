@@ -10,16 +10,11 @@
 
 <br>
 
-**Remove before final release**
-- [Set up your repository](docs/HowToAutoDeploy.md)
-- [Way to work](docs/WayToWrok.md)
-- [Known issues](docs/knowProblems.md)
-
 ---
 
 <br/>
 
-s-llm is npm package to ...
+s-llm is utils for working with LLM models
 
 ## Install
 
@@ -30,7 +25,7 @@ npm install s-llm
 ## Usage
 
 ```ts
-import { myPackage } from "s-llm";
+import { myPackage } from 's-llm';
 
 // Default value is 'Watermelon 🍉'
 getFavoriteFruit();
@@ -68,11 +63,11 @@ Throws an error if the fruit parameter is not a string.
 Lorem ipsum.
 
 ## Badges
+
 [![Downloads][downloads-img]][downloads-url]
 [![Issues][issues-img]][issues-url]
 [![Commitizen Friendly][commitizen-img]][commitizen-url]
 [![Semantic Release][semantic-release-img]][semantic-release-url]
-
 
 [build-img]: https://github.com/SebastianWesolowski/s-llm/actions/workflows/release.yml/badge.svg
 [build-url]: https://github.com/SebastianWesolowski/s-llm/actions/workflows/release.yml
